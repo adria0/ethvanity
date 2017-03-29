@@ -7,7 +7,7 @@ You need to install golang 1.8, first, check https://golang.org/
 
 Just drop into the command line:
 
-`go get github.com/adriamb/genaddres`
+`go get github.com/adriamb/genaddress`
 
 ### execution
 
