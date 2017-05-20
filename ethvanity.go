@@ -18,7 +18,7 @@ import (
 func main() {
 
 	if len(os.Args) != 3 {
-		log.Fatal("Usage genaddress <concurrency> <addressprefix>")
+		log.Fatal("Usage ethvanity <concurrency> <addressprefix>")
 	}
 
 	concurrency, err := strconv.Atoi(os.Args[1])
